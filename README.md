@@ -1,6 +1,5 @@
 <div align="center">
 
-  <img src="your-project-logo.png" alt="Road Damage Detection Logo" width="200">
 
   <h1>Road Damage Detection using YOLOv5</h1>
 
